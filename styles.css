@@ -1,0 +1,43 @@
+
+.logo {
+    max-width: 200px;
+    margin: 10px;
+}
+#about {
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
+#features {
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
+#testimonials {
+    background-color: #292447;
+    padding-top: 40px;
+    padding: 20px;
+}
+.testimonials {
+    text-align: center;
+    color: white;
+   
+}
+.testimonials p {
+    color: white;
+    text-align-last: left;
+    margin: 40px;
+}
+.nav-link  {
+    margin: 40px;
+}
+#contact {
+    text-align: center;
+    margin: 40px;
+}
+footer {
+    text-align: center;
+}
+.dropdown-menu {
+    width: 400px;
+}
